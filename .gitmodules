@@ -1,3 +1,6 @@
 [submodule "NeoVim"]
 	path = NeoVim
 	url = https://github.com/JnathanCarter/Nvim-Config
+[submodule "Nvim-Config"]
+	path = Nvim-Config
+	url = https://github.com/JnathanCarter/Nvim-Config/
